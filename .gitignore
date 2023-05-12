@@ -1,3 +1,6 @@
 !.*
 Intermediate
 radiance_pipeline
+submodules/*
+errors/*
+

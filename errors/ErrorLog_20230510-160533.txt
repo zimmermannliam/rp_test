@@ -1,1 +1,0 @@
-2023-05-10 16:05:33,274 ERROR errorLogger expected str, bytes or os.PathLike object, not NoneType

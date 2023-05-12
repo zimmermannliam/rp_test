@@ -1,1 +1,0 @@
-2023-05-04 19:44:03,827 ERROR errorLogger sequence item 5: expected str instance, NoneType found
